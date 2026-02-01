@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.7",
   "instance_name": "Betatest Instace",
-  "generated_at": "2026-02-01T15:35:06.278946",
+  "generated_at": "2026-02-01T21:52:09.930438",
   "files": {
     "mods/adventuredungeons-fabric-1.21-1.3.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/adventuredungeons-fabric-1.21-1.3.1.jar",
@@ -153,6 +153,11 @@
       "sha256": "18eff1babb8da9d3057f13cd46d07b14748c1c3b95c24dfb8faf5bd8d2979c1f",
       "size": 5620
     },
+    "mods/trinkets-3.10.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/trinkets-3.10.0.jar",
+      "sha256": "349fd2aa8930b232050ee5304db55e4ef738b017971afe7c84acd589a95fda2f",
+      "size": 272944
+    },
     "mods/waystones-fabric-1.21.1-21.1.25.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/waystones-fabric-1.21.1-21.1.25.jar",
       "sha256": "1225853d2880616a7242cde7c6a1cc4bbea9cebbed4eecc64bf21c533c943cd9",
@@ -180,8 +185,13 @@
     },
     "config/awesomedungeonnether_1.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/awesomedungeonnether_1.properties",
-      "sha256": "b71a5c7e36edce59b2ced2f9637ae69ed264ef3c754a2afcb5e987a86d8b8300",
+      "sha256": "c781e6cf44b625f980436bd8ac5eb5adaf4dff8541c87a2550007d1cca8e844b",
       "size": 1006
+    },
+    "config/cardinal-components-api.properties": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/cardinal-components-api.properties",
+      "sha256": "8d3ae8c9240fc60475fbb98a87b7e2e0874703b173a449fb346fb0857ada7bba",
+      "size": 452
     },
     "config/cmdcam-client.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/cmdcam-client.json",
@@ -205,7 +215,7 @@
     },
     "config/libraryferret_1.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/libraryferret_1.properties",
-      "sha256": "2fd07ad043bf2b6f177cebdd7092fc3dbe24522f98c4e7e3e35a01baeffa3a44",
+      "sha256": "9967b7678a2cb35b5972a345b43409558afe99a23a82a84b726495aa6a6072b7",
       "size": 193
     },
     "config/offlineskins.json": {
@@ -237,6 +247,21 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/xaeropatreon.txt",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "size": 0
+    },
+    "config/artifacts/client.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/artifacts/client.toml",
+      "sha256": "3921700655db2af439702410ce0f4771955fa426b8b184ccb569721063da2a70",
+      "size": 819
+    },
+    "config/artifacts/general.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/artifacts/general.toml",
+      "sha256": "b73793e634d1a441c12ed1c3d02ec074b2f19a24766512f78ff0b9d83cf9768b",
+      "size": 2326
+    },
+    "config/artifacts/items.toml": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/artifacts/items.toml",
+      "sha256": "4ad2b5325a9ddd32792b0cca532ab88914ae0c85aef8f5f56db8f5e75609bc28",
+      "size": 20051
     },
     "config/biomeswevegone/misc.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/biomeswevegone/misc.json",
@@ -270,7 +295,7 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/fabric/indigo-renderer.properties",
-      "sha256": "a97d00708714f669b4ba8bfbb39588be71c4fd3d9f58f6e50e59f24dbd98d900",
+      "sha256": "0593c0b844d5ef00e23b8f5615943f7931e0986497c9302f98fcf247a9d894ad",
       "size": 290
     },
     "config/fancymenu/customizablemenus.txt": {
@@ -360,8 +385,8 @@
     },
     "config/fancymenu/customization/hardcoreme.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/fancymenu/customization/hardcoreme.txt",
-      "sha256": "214e1e1dac45257fe8886a3366538e7a61e0be1989d18c849d8b2860bbaaba76",
-      "size": 28605
+      "sha256": "84e2fc8c5f2f2c6402cbbe631b18f42f13ac8d3795ff2d15591b35c5bac8ed74",
+      "size": 28607
     },
     "config/fancymenu/customization/options_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/fancymenu/customization/options_screen_layout.txt",
@@ -422,11 +447,6 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/jei/blacklist.json",
       "sha256": "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648",
       "size": 19
-    },
-    "config/jei/ingredient-list-mod-sort-order.ini": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/jei/ingredient-list-mod-sort-order.ini",
-      "sha256": "ad3af42d13018a8e4eec1df8c06d5e75a8c0c3245d6f63854de615ad17b96cb4",
-      "size": 65
     },
     "config/jei/ingredient-list-type-sort-order.ini": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/config/jei/ingredient-list-type-sort-order.ini",
