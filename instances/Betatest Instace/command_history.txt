@@ -1,0 +1,50 @@
+//undo
+//paste
+//copy
+//cut
+//paste
+//undo
+//paste
+//undo
+//paste
+//undo
+//paste
+//undo
+//paste
+//undo
+//paste
+/view false
+/time set
+/time set day
+/gamemode creative
+/desactivar animacion de muerte
+/auraim charlie
+/auraim hector
+/auraim max
+/auraim hipo
+/auraim off
+/gamemode spectator
+/auraim charlie
+/auraim hector
+/auraim max
+/auraim hipo
+/auraim plasta
+/gamemode creative
+/give @s minecraft:command_block
+/weather clear
+/difficulty peaceful
+/time set day
+/weather clear
+/time set day
+/auraim off
+/gamemode spectator
+/auraim hipo
+/auraim plasta
+/auraim max
+/auraim hector
+/auraim charlie
+/gamemodec
+/gamemode creative
+/weather clear
+/time set day
+/auraim off
