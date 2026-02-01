@@ -1,12 +1,17 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "instance_name": "Betatest Instace",
-  "generated_at": "2026-02-01T21:52:09.930438",
+  "generated_at": "2026-02-01T21:54:49.093235",
   "files": {
     "mods/adventuredungeons-fabric-1.21-1.3.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/adventuredungeons-fabric-1.21-1.3.1.jar",
       "sha256": "2030f66ad72650dd87bbf252a124163d817cc13f6f1e85604693669d793e1306",
       "size": 1602316
+    },
+    "mods/appleskin-fabric-mc1.21-3.0.6.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/appleskin-fabric-mc1.21-3.0.6.jar",
+      "sha256": "9a19cec1294b1bc708392a08e6926dcb85d7378ec5ad909a4b6fcb8bc3bfeaa2",
+      "size": 1082585
     },
     "mods/artifacts-fabric-13.2.0.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/artifacts-fabric-13.2.0.jar",
