@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "instance_name": "Betatest Instace",
-  "generated_at": "2026-02-01T12:53:06.582697",
+  "generated_at": "2026-02-01T13:01:08.326203",
   "files": {
     "mods/adventuredungeons-fabric-1.21-1.3.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/adventuredungeons-fabric-1.21-1.3.1.jar",
@@ -47,6 +47,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar",
       "sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
       "size": 11864952
+    },
+    "mods/dynamic-torches-5.3.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/dynamic-torches-5.3.jar",
+      "sha256": "132a4c5197f61d63b93304cd6a2f5358d7a678e714f5adae78ae511e6ee7d848",
+      "size": 50448
     },
     "mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/emotecraft-for-MC1.21.1-2.4.12-fabric.jar",
