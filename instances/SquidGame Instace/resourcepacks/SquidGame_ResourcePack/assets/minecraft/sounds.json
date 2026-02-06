@@ -1,0 +1,42 @@
+{
+  "entity.arrow.hit": {
+    "sounds": [
+      "random/bowhit/bowhit1",
+      "random/bowhit/bowhit2",
+      "random/bowhit/bowhit3",
+      "random/bowhit/bowhit4"
+    ],
+    "replace": true,
+    "subtitle": "subtitles.entity.arrow.hit"
+  },
+  "item.crossbow.loading_start": {
+    "sounds": [
+      "item/crossbow/loading_start"
+    ],
+    "replace": true,
+    "subtitle": "subtitles.item.crossbow.loading_start"
+  },
+  "item.crossbow.loading_end": {
+    "sounds": [
+      "item/crossbow/loading_end"
+    ],
+    "replace": true,
+    "subtitle": "subtitles.item.crossbow.loading_end"
+  },
+  "item.crossbow.shoot": {
+    "sounds": [
+      "item/crossbow/shoot1",
+      "item/crossbow/shoot2",
+      "item/crossbow/shoot3"
+    ],
+    "replace": true,
+    "subtitle": "subtitles.item.crossbow.shoot"
+  },
+  "sg": {
+    "sounds": [
+      "sg/pink"
+    ],
+    "replace": true,
+    "subtitle": "subtitles.entity.squid.ambient"
+  }
+}

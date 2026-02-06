@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "all":  "minecraft:block/note_block_note_9"
+                 },
+    "parent":  "minecraft:block/cube_all"
+}

@@ -1,0 +1,9 @@
+{
+  "entityTrackingRange": 128,
+  "staticEntityTrackingTickInterval": 20,
+  "dynamicEntityTrackingTickInterval": 2,
+  "blockEntityRenderDistance": 256,
+  "dollAnchorEnsureIntervalTicks": 100,
+  "deadlyFloorPauseExtraTicks": 5,
+  "emoteCooldownTicks": 10
+}

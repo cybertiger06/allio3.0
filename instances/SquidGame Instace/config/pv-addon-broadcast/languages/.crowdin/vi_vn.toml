@@ -1,0 +1,14 @@
+[client.pv.activation]
+broadcast = "Phát sóng"
+
+[server.pv.addon.broadcast]
+broadcasting_specific = "Đang phát sóng cho %s"
+broadcasting_wide = "Đang phát sóng toàn %s"
+
+[server.pv.addon.broadcast.command]
+range_set = "Thiết lập phạm vi phát sóng %d"
+range_usage = "Dùng: /vbroadcast range <số lớn hơn 0>"
+server_set = "Đặt chế độ phát sóng server"
+usage = "Dùng: /vbroadcast <range|server|world> <khoảng cách mong muốn | tên thế giới>"
+world_set = "Đặt chế độ phát sóng thế giới thành %s"
+world_usage = "Dùng: /vbroadcast world <tên thế giới>"
