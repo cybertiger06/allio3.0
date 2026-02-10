@@ -1,7 +1,7 @@
 {
-  "version": "1.0.12",
+  "version": "1.0.14",
   "instance_name": "Betatest Instace",
-  "generated_at": "2026-02-07T11:36:46",
+  "generated_at": "2026-02-10T14:00:00",
   "files": {
     "mods/adventuredungeons-fabric-1.21-1.3.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/adventuredungeons-fabric-1.21-1.3.1.jar",
@@ -72,6 +72,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/fabric-api-0.116.7+1.21.1.jar",
       "sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
       "size": 2424884
+    },
+    "mods/factory_blocks-fabric-1.4.0+mc1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/factory_blocks-fabric-1.4.0%2Bmc1.21.1.jar",
+      "sha256": "84fd5980aca5ccd43d61cd3fa9a7856b2c9cc3fa74568c4942371d0c0d3e48cd",
+      "size": 808328
     },
     "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/Betatest%20Instace/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
