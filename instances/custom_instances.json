@@ -1,1 +1,14 @@
-{"instances":[{"name":"ESMP","mc_version":"1.21.1","fabric_version":"0.18.4","shaders":true,"fondo_image":"","icon_image":"","manifest_url":"https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_ESMP.json","instance_folder":""}],"backrooms_archived":false}
+{
+  "instances": [
+    {
+      "name": "Backrooms",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_fondo.gif",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_icon.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_Backrooms.json"
+    }
+  ],
+  "backrooms_archived": false
+}
