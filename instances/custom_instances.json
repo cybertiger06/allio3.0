@@ -8,7 +8,17 @@
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_fondo.gif",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_icon.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_Backrooms.json",
-      "from_remote": false
+      "from_remote": true
+    },
+    {
+      "name": "sandbox1",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "",
+      "icon_url": "",
+      "manifest_url": "",
+      "from_remote": true
     }
   ],
   "backrooms_archived": false
