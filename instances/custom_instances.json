@@ -11,7 +11,7 @@
       "from_remote": true
     },
     {
-      "name": "sandbox1",
+      "name": "Sandbox1",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
