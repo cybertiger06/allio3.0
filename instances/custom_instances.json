@@ -7,7 +7,8 @@
       "shaders": true,
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_fondo.gif",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_icon.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_Backrooms.json"
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_Backrooms.json",
+      "from_remote": false
     }
   ],
   "backrooms_archived": false
