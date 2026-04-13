@@ -1,5 +1,5 @@
 ﻿{
     "version":  "3.0.12",
-    "url":  "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/launcher_betatest.zip",
-    "sha256":  "624f40526524ccb1a80c4e46d2033766423d3e66aa46cb880122eea57590cf8a"
+    "url":  "https://github.com/cybertiger06/allio3.0/releases/download/betatest-v3.0.12/launcher_betatest.zip",
+    "sha256":  "cc57b0bd874a2a050158f1902aa141cd774595623791c90a85e29daa9708bc1c"
 }
