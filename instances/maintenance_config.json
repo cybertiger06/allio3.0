@@ -1,4 +1,4 @@
 {
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "whitelist": ["allioadminscuent", "CyberTiger2"]
 }
