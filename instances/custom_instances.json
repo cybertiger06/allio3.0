@@ -19,6 +19,16 @@
       "icon_url": "",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_sandbox1.json",
       "from_remote": true
+    },
+    {
+      "name": "Squid Games",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/SquidGames_fondo.png",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/SquidGames_icon.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_squidgames.json",
+      "from_remote": true
     }
   ],
   "backrooms_archived": false
