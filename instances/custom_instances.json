@@ -28,9 +28,8 @@
       "shaders": false,
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/SquidGames_fondo.png",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/SquidGames_icon.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_squidgames.json",
-      "from_remote": true,
-      "archived": true
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/manifest.json",
+      "from_remote": true
     },
     {
       "name": "HardcoreZ",
