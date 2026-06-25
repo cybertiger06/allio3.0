@@ -20,7 +20,7 @@
       "icon_url": "",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_sandbox1.json",
       "from_remote": true,
-      "archived": false
+      "archived": true
     },
     {
       "name": "Squid Games",
