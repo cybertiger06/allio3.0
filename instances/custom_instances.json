@@ -1,6 +1,20 @@
 {
   "instances": [
     {
+      "name": "DerivaLand",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_fondo.png",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_icon.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/derivaland/manifest.json",
+      "description": "DerivaLand",
+      "public": true,
+      "encrypted": true,
+      "from_remote": true,
+      "archived": false
+    },
+    {
       "name": "Backrooms",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
