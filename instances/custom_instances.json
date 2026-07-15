@@ -59,7 +59,7 @@
       "public": true,
       "encrypted": false,
       "from_remote": true,
-      "archived": false
+      "archived": true
     },
     {
       "name": "Squid Games TEST",
