@@ -1,20 +1,6 @@
 {
   "instances": [
     {
-      "name": "DerivaLand",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": true,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_fondo.png",
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_icon.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/derivaland/manifest.json",
-      "description": "DerivaLand",
-      "public": true,
-      "encrypted": true,
-      "from_remote": true,
-      "archived": false
-    },
-    {
       "name": "Backrooms",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
@@ -34,7 +20,7 @@
       "icon_url": "",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_sandbox1.json",
       "from_remote": true,
-      "archived": true
+      "archived": false
     },
     {
       "name": "Squid Games",
@@ -45,21 +31,7 @@
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/SquidGames_icon.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/manifest.json",
       "from_remote": true,
-      "archived": true
-    },
-    {
-      "name": "Golden League",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/GoldenLeague_fondo.png",
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/GoldenLeague_icon.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/goldenleague/manifest.json",
-      "description": "Golden League",
-      "public": true,
-      "encrypted": false,
-      "from_remote": true,
-      "archived": true
+      "archived": false
     },
     {
       "name": "Squid Games TEST",
@@ -74,6 +46,20 @@
       "encrypted": true,
       "from_remote": true,
       "archived": true
+    },
+    {
+      "name": "DerivaLand",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_fondo.png",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_icon.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/derivaland/manifest.json",
+      "description": "DerivaLand",
+      "public": true,
+      "encrypted": true,
+      "from_remote": true,
+      "archived": false
     },
     {
       "name": "HardcoreZ",
