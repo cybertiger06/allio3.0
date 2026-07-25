@@ -54,7 +54,7 @@
       "shaders": false,
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/DerivaLand_fondo.png",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/12a4cbc07e32bd96151ba8610cbc65bb1f4e86da/instances/images/DerivaLand_icon.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/3a731ce2067ecf0d11dc6e594e7282cfed81cbe2/instances/derivaland/manifest.json",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/f0e730cb6591a3e9257dac0678883311ee7c513b/instances/derivaland/manifest.json",
       "description": "DerivaLand",
       "public": true,
       "encrypted": true,
