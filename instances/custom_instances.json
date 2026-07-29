@@ -22,15 +22,6 @@
       "fondo_url": "",
       "manifest_url": "",
       "from_remote": false
-    },
-    {
-      "name": "Prueba3",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "",
-      "manifest_url": "",
-      "from_remote": false
     }
   ],
   "backrooms_archived": false
