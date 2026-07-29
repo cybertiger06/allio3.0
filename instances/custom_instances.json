@@ -15,15 +15,6 @@
       "archived": false
     },
     {
-      "name": "Prueba",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "",
-      "manifest_url": "",
-      "from_remote": false
-    },
-    {
       "name": "Sandbox1",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
