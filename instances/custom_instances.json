@@ -71,9 +71,9 @@
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/goldenleague/manifest.json",
       "description": "Golden League",
       "public": true,
-      "encrypted": false,
+      "encrypted": true,
       "from_remote": true,
-      "archived": true
+      "archived": false
     }
   ],
   "backrooms_archived": false
