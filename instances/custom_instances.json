@@ -12,7 +12,7 @@
       "public": true,
       "encrypted": true,
       "from_remote": true,
-      "archived": false
+      "archived": true
     },
     {
       "name": "Sandbox1",
