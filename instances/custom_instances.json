@@ -24,6 +24,18 @@
       "from_remote": false
     },
     {
+      "name": "CARsafio 2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/CARsafio_2_fondo_b0b14bb08336.png",
+      "manifest_url": "",
+      "from_remote": false,
+      "fondo_asset_sha256": "b0b14bb08336725cde1b8deae880f828464c4b4bd29a9399996154cd3c281107",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/CARsafio_2_icon_4f3cb93a7573.png",
+      "icon_asset_sha256": "4f3cb93a757326210ad04eba88bbb4ff64f8bf412d9423ea0a8caf4ecd712e24"
+    },
+    {
       "name": "Sandbox1",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
