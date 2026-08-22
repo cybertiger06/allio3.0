@@ -83,6 +83,20 @@
       "encrypted": true,
       "from_remote": true,
       "archived": true
+    },
+    {
+      "name": "prueba",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "",
+      "icon_url": "",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/prueba/manifest.json",
+      "description": "prueba",
+      "public": true,
+      "encrypted": false,
+      "from_remote": true,
+      "archived": false
     }
   ],
   "backrooms_archived": false
