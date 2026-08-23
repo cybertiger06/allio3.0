@@ -16,7 +16,7 @@
     },
     {
       "name": "backroomsmod",
-      "mc_version": "1.21.1",
+      "mc_version": "1.21",
       "fabric_version": "0.18.4",
       "shaders": true,
       "fondo_url": "",
