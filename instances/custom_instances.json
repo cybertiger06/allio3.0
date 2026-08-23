@@ -22,7 +22,8 @@
       "fondo_url": "",
       "manifest_url": "",
       "from_remote": true,
-      "archived": true
+      "archived": true,
+      "public": false
     },
     {
       "name": "Sandbox1",
