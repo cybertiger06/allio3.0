@@ -15,6 +15,15 @@
       "archived": false
     },
     {
+      "name": "backroomsmod",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "",
+      "manifest_url": "",
+      "from_remote": true
+    },
+    {
       "name": "Sandbox1",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
@@ -72,16 +81,6 @@
       "description": "DerivaLand",
       "public": true,
       "encrypted": true,
-      "from_remote": true,
-      "archived": true
-    },
-    {
-      "name": "backroomsmod",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": true,
-      "fondo_url": "",
-      "manifest_url": "",
       "from_remote": true,
       "archived": true
     }
