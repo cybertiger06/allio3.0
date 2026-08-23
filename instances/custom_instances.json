@@ -2,21 +2,21 @@
   "instances": [
     {
       "name": "Golden League",
-      "mc_version": "1.20.6",
+      "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/GoldenLeague_fondo.png",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/GoldenLeague_icon.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/goldenleague/manifest.json",
       "description": "Golden League",
-      "public": false,
+      "public": true,
       "encrypted": true,
       "from_remote": true,
       "archived": false
     },
     {
       "name": "backroomsmod",
-      "mc_version": "1.20.4",
+      "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": true,
       "fondo_url": "",
