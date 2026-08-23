@@ -23,7 +23,7 @@
       "manifest_url": "",
       "from_remote": true,
       "archived": false,
-      "public": true,
+      "public": false,
       "encrypted": true
     },
     {
