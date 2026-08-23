@@ -2,14 +2,14 @@
   "instances": [
     {
       "name": "Golden League",
-      "mc_version": "1.21.1",
+      "mc_version": "1.20.6",
       "fabric_version": "0.18.4",
       "shaders": false,
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/GoldenLeague_fondo.png",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/GoldenLeague_icon.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/goldenleague/manifest.json",
       "description": "Golden League",
-      "public": true,
+      "public": false,
       "encrypted": true,
       "from_remote": true,
       "archived": false
