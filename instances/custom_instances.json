@@ -16,12 +16,13 @@
     },
     {
       "name": "backroomsmod",
-      "mc_version": "1.21",
+      "mc_version": "1.20.6",
       "fabric_version": "0.18.4",
       "shaders": true,
       "fondo_url": "",
       "manifest_url": "",
-      "from_remote": true
+      "from_remote": true,
+      "archived": true
     },
     {
       "name": "Sandbox1",
