@@ -33,7 +33,7 @@
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/manifest.json",
       "instance_id": "b0215760f38342d28aa31ad504e402a1",
       "encrypted": true,
-      "public": true,
+      "public": false,
       "from_remote": false,
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Allio_UHC_icon_6bbd5f49c673.png",
       "fondo_asset_sha256": "f190770f4475e34d427180111a6f486246d67656dff43ba2f3c5aa7ba90c0664",
