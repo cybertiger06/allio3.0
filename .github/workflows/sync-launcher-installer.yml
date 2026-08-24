@@ -1,0 +1,64 @@
+name: Sync launcher installer
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Semantic launcher version
+        required: true
+        default: 3.0.27
+      release_tag:
+        description: Release tag containing the installer
+        required: true
+        default: launcher-v3.0.27-hotfix-20260823
+      sha256:
+        description: Expected installer SHA-256
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Download and verify installer
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ inputs.version }}
+          RELEASE_TAG: ${{ inputs.release_tag }}
+          EXPECTED_SHA256: ${{ inputs.sha256 }}
+        run: |
+          set -euo pipefail
+          [[ "$VERSION" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]
+          [[ "$RELEASE_TAG" =~ ^[A-Za-z0-9._-]+$ ]]
+          [[ "$EXPECTED_SHA256" =~ ^[0-9a-fA-F]{64}$ ]]
+          asset="Allio-Client-Setup-windows-x86_64-v${VERSION}.exe"
+          target="launcher-windows-x86_64/${asset}"
+          mkdir -p launcher-windows-x86_64 .installer-download
+          gh release download "$RELEASE_TAG" \
+            --repo "$GITHUB_REPOSITORY" \
+            --pattern "$asset" \
+            --dir .installer-download \
+            --clobber
+          printf '%s  %s\n' "$EXPECTED_SHA256" ".installer-download/$asset" | sha256sum --check --strict
+          mv ".installer-download/$asset" "$target"
+
+      - name: Publish fixed download path
+        env:
+          VERSION: ${{ inputs.version }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "launcher-windows-x86_64/Allio-Client-Setup-windows-x86_64-v${VERSION}.exe"
+          if git diff --cached --quiet; then
+            echo "Installer already synchronized"
+            exit 0
+          fi
+          git commit -m "Sync Windows launcher installer v${VERSION}"
+          git push origin HEAD:main
