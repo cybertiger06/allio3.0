@@ -1,22 +1,6 @@
 {
   "instances": [
     {
-      "name": "Backrooms Vol2",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": true,
-      "description": "Backrooms Vol2",
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_Vol2_fondo_a873840105fa.png",
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_Vol2_icon_9e45d4a6f9ed.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/manifest.json",
-      "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
-      "encrypted": true,
-      "public": true,
-      "from_remote": true,
-      "fondo_asset_sha256": "a873840105fab2d021151098bc0ef4b2e95af3b2ebfe017650c12f661693c640",
-      "icon_asset_sha256": "9e45d4a6f9edd5991987fe2866c512f30e7c56a2f0398362440866c58d3f555f"
-    },
-    {
       "name": "Allio UHC",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
@@ -55,6 +39,23 @@
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/HardcoreZ_icon.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_hardcorez.json",
       "from_remote": true,
+      "archived": true
+    },
+    {
+      "name": "Backrooms Vol2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "description": "Backrooms Vol2",
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_Vol2_fondo_a873840105fa.png",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Backrooms_Vol2_icon_9e45d4a6f9ed.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/manifest.json",
+      "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "fondo_asset_sha256": "a873840105fab2d021151098bc0ef4b2e95af3b2ebfe017650c12f661693c640",
+      "icon_asset_sha256": "9e45d4a6f9edd5991987fe2866c512f30e7c56a2f0398362440866c58d3f555f",
       "archived": true
     }
   ],
