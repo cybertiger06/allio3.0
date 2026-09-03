@@ -32,6 +32,21 @@
       "icon_asset_sha256": "6bbd5f49c673d154731b7bf0a67c18c017c6d1b2d164a80f861c66b7acdb2edd"
     },
     {
+      "name": "Extremo",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_fondo_93b7177aa796.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/manifest.json",
+      "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
+      "encrypted": true,
+      "public": true,
+      "from_remote": false,
+      "fondo_asset_sha256": "93b7177aa796a619dc6b2b3eca6bce6b200222166892e182f585d3fc4101e944",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_icon_f0a520f5916d.png",
+      "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f"
+    },
+    {
       "name": "HardcoreZ",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
