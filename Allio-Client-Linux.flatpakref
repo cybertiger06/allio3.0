@@ -1,0 +1,10 @@
+[Flatpak Ref]
+Name=studio.allio.client
+Title=Allio Client
+Branch=stable
+IsRuntime=false
+Url=https://raw.githubusercontent.com/cybertiger06/allio3.0/flatpak/repo
+GPGKey=mDMEaqUEOBYJKwYBBAHaRw8BAQdAUvGC6M7AKB5RER8I6msB0Dk0bwV5tTOtoNm57+TUAxa0HUFsbGlvIENsaWVudCBGbGF0cGFrIFJlbGVhc2VziJMEExYKADsWIQRMXeoewtIomu1FX23BbLFOuaAwEwUCaqUEOAIbAwULCQgHAgIiAgYVCgkICwIEFgIDAQIeBwIXgAAKCRDBbLFOuaAwE2v+AP4qzeuhV4WfpERCYsECU1t6wQRIPrh0qahEDq8aUXtv3AEAu1UC2gOntXwTN1zjQpnl2TqLVQSgA0dp0oCBHFaW+QQ=
+SuggestRemoteName=allio
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
+
