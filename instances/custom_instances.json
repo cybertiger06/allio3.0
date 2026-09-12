@@ -20,14 +20,15 @@
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
-      "fondo_url": "",
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Prubea_fondo_387ef0dea278.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/57c90627b51447e8a3596bd3348f162d/manifest.json",
       "instance_id": "57c90627b51447e8a3596bd3348f162d",
       "encrypted": true,
       "public": true,
       "from_remote": false,
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Prubea_icon_b221a1a7ca6b.png",
-      "icon_asset_sha256": "b221a1a7ca6b5a54d316283761b184776778b2515237d48f72d454213ba15f75"
+      "icon_asset_sha256": "b221a1a7ca6b5a54d316283761b184776778b2515237d48f72d454213ba15f75",
+      "fondo_asset_sha256": "387ef0dea2788d5e8e3571618e99b697e951dad1965803497d279d4e424ca6d5"
     },
     {
       "name": "HardcoreZ",
