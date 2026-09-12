@@ -16,18 +16,6 @@
       "icon_asset_sha256": "6bbd5f49c673d154731b7bf0a67c18c017c6d1b2d164a80f861c66b7acdb2edd"
     },
     {
-      "name": "Pueba",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/9f3af43e8d5a4ee786f25c9171c1d74a/manifest.json",
-      "instance_id": "9f3af43e8d5a4ee786f25c9171c1d74a",
-      "encrypted": true,
-      "public": true,
-      "from_remote": false
-    },
-    {
       "name": "HardcoreZ",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
