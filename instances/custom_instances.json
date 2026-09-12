@@ -25,7 +25,9 @@
       "instance_id": "57c90627b51447e8a3596bd3348f162d",
       "encrypted": true,
       "public": true,
-      "from_remote": false
+      "from_remote": false,
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Prubea_icon_b221a1a7ca6b.png",
+      "icon_asset_sha256": "b221a1a7ca6b5a54d316283761b184776778b2515237d48f72d454213ba15f75"
     },
     {
       "name": "HardcoreZ",
