@@ -1,5 +1,5 @@
 {
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "whitelist": [
     "allioadminscuent",
     "car23m2",
