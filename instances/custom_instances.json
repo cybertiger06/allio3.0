@@ -31,17 +31,6 @@
       "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f"
     },
     {
-      "name": "HardcoreZ",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/HardcoreZ_fondo.gif",
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/HardcoreZ_icon.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_hardcorez.json",
-      "from_remote": true,
-      "archived": true
-    },
-    {
       "name": "Backrooms Vol2",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
@@ -55,7 +44,17 @@
       "public": true,
       "from_remote": true,
       "fondo_asset_sha256": "a873840105fab2d021151098bc0ef4b2e95af3b2ebfe017650c12f661693c640",
-      "icon_asset_sha256": "9e45d4a6f9edd5991987fe2866c512f30e7c56a2f0398362440866c58d3f555f",
+      "icon_asset_sha256": "9e45d4a6f9edd5991987fe2866c512f30e7c56a2f0398362440866c58d3f555f"
+    },
+    {
+      "name": "HardcoreZ",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/HardcoreZ_fondo.gif",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/HardcoreZ_icon.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_hardcorez.json",
+      "from_remote": true,
       "archived": true
     }
   ],
