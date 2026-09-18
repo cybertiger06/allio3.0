@@ -32,7 +32,7 @@
       "icon_asset_sha256": "03f746ff304f9d08733e356072ce624b4243fd2a058ea08d700ed1cede093b87"
     },
     {
-      "name": "Sandbox1",
+      "name": "Sandbox2",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
@@ -41,7 +41,8 @@
       "instance_id": "d2d4b5f9c6494c4eb8fea0bbe1c7ffb7",
       "encrypted": true,
       "public": true,
-      "from_remote": false
+      "from_remote": false,
+      "description": "SANDBOX1"
     },
     {
       "name": "HardcoreZ",
