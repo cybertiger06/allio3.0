@@ -1,7 +1,7 @@
 {
   "instances": [
     {
-      "name": "Cobblemon 2",
+      "name": "Cobblemon2",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": true,
