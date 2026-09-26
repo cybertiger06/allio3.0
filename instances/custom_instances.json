@@ -5,14 +5,14 @@
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_fondo_93b7177aa796.png",
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_fondo_2095f354a4f9.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/manifest.json",
       "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
       "encrypted": true,
       "public": true,
       "from_remote": false,
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_icon_f0a520f5916d.png",
-      "fondo_asset_sha256": "93b7177aa796a619dc6b2b3eca6bce6b200222166892e182f585d3fc4101e944",
+      "fondo_asset_sha256": "2095f354a4f9f8877b045d3e9526f2271156e05248c3fc9a79be4c8cdbee826a",
       "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f"
     },
     {
