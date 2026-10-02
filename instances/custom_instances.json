@@ -57,7 +57,7 @@
       "from_remote": true,
       "fondo_asset_sha256": "b5d1a1ed8ad5e94727e5437a4831a84103c5bfbc0a8c158145b67e8f816ccb34",
       "icon_asset_sha256": "03f746ff304f9d08733e356072ce624b4243fd2a058ea08d700ed1cede093b87",
-      "archived": false
+      "archived": true
     },
     {
       "name": "Cobblemon 2",
@@ -74,7 +74,7 @@
       "fondo_asset_sha256": "5594d3b0f2e3b0a399a5896ddcf85a33e17a8cf634b5d934957c538c1b5e633d",
       "icon_asset_sha256": "a01df5ba3c4252ae282cb55e3e2183f3aa83e1bc173e7911b13fdb499e1eba1c",
       "description": "COBBLEMON2",
-      "archived": true
+      "archived": false
     }
   ],
   "backrooms_archived": false
