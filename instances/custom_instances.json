@@ -76,15 +76,13 @@
       "description": "COBBLEMON2",
       "archived": true
   {
-  "instances": [
-    {
       "name": "Prueba1",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
-      "encrypted": true,
-      "public": true,
-      "from_remote": false,
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_hardcorez.json",
+      "from_remote": true,
+      "archived": false
     }
   ],
   "backrooms_archived": false
