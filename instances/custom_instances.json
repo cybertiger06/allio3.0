@@ -57,7 +57,7 @@
       "from_remote": true,
       "fondo_asset_sha256": "b5d1a1ed8ad5e94727e5437a4831a84103c5bfbc0a8c158145b67e8f816ccb34",
       "icon_asset_sha256": "03f746ff304f9d08733e356072ce624b4243fd2a058ea08d700ed1cede093b87",
-      "archived": true
+      "archived": false
     },
     {
       "name": "Cobblemon 2",
