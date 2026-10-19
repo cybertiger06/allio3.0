@@ -1,6 +1,21 @@
 {
   "instances": [
     {
+      "name": "Cobblemon2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Cobblemon2_fondo_5594d3b0f2e3.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/000207397b5447579405f79f822e55f0/manifest.json",
+      "instance_id": "000207397b5447579405f79f822e55f0",
+      "encrypted": true,
+      "public": true,
+      "from_remote": false,
+      "fondo_asset_sha256": "5594d3b0f2e3b0a399a5896ddcf85a33e17a8cf634b5d934957c538c1b5e633d",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Cobblemon2_icon_a01df5ba3c42.png",
+      "icon_asset_sha256": "a01df5ba3c4252ae282cb55e3e2183f3aa83e1bc173e7911b13fdb499e1eba1c"
+    },
+    {
       "name": "Allio UHC",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
