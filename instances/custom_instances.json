@@ -43,6 +43,22 @@
       "archived": true
     },
     {
+      "name": "Extremo",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_fondo_d4e4035df9da.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/manifest.json",
+      "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_icon_f0a520f5916d.png",
+      "fondo_asset_sha256": "d4e4035df9da90851b5ef11ab4137dff01745e518b92b8711d10c3168335d6fc",
+      "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f",
+      "archived": true
+    },
+    {
       "name": "Backrooms Vol2",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
@@ -57,22 +73,6 @@
       "from_remote": true,
       "fondo_asset_sha256": "b5d1a1ed8ad5e94727e5437a4831a84103c5bfbc0a8c158145b67e8f816ccb34",
       "icon_asset_sha256": "03f746ff304f9d08733e356072ce624b4243fd2a058ea08d700ed1cede093b87",
-      "archived": false
-    },
-    {
-      "name": "Extremo",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_fondo_d4e4035df9da.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/manifest.json",
-      "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
-      "encrypted": true,
-      "public": true,
-      "from_remote": true,
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio3.0/main/instances/images/Extremo_icon_f0a520f5916d.png",
-      "fondo_asset_sha256": "d4e4035df9da90851b5ef11ab4137dff01745e518b92b8711d10c3168335d6fc",
-      "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f",
       "archived": true
     }
   ],
